@@ -1,0 +1,63 @@
+body{
+	/*background: url(image/logo.png) no-repeat center; 
+	background-size:1400px;*/
+}
+h1{
+	text-align: center;
+	font-size: xx-large;
+}
+p {
+	font-family: arial black;  /*police du texte*/
+	border-left: 1px solid black;
+	color:black;/*couleur du texte en noir*/
+	font-size: medium; /*taille du texte*/ 
+
+}
+#S1{
+	position: absolute;
+	top: 340px;
+	left: 1200px;
+}
+#S2
+{	position: absolute;
+	top: 340px;
+	left: 1000px;}
+}
+#S3{
+	position: absolute;
+	top: 340px;
+}
+	
+                              /*TITRE DES SITES*/
+
+#S4{
+	position: absolute;
+	top: 340px;
+	left: 800px
+}
+	     
+#S5
+	{position: absolute;
+		top: 360px;
+		left: 600px;
+	}
+
+#S6
+{position: absolute;
+	top: 340px;
+	left: 400px;
+}
+	
+#S7
+{   position: absolute;
+	top: 360px;
+    left: 200px;}
+
+img{
+	width: 100px;
+	width: 100px;
+}
+#ligneP{
+	text-align: center;
+	font-family: arial;
+}
